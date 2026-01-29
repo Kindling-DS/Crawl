@@ -10,7 +10,7 @@ import crawl
 
 
 REPO_ROOT = Path(__file__).resolve().parent
-DEFAULT_INFO_JSON = REPO_ROOT / "Crawl" / "json" / "info.json"
+DEFAULT_INFO_JSON = REPO_ROOT / "json" / "info.json"
 
 
 def _load_config(path: Path) -> Dict[str, Any]:
