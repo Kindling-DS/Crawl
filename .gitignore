@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Playwright profile dir (your script uses persistent context)
+hibuddy_profile/
+
+# Outputs
+*.csv
+
+# OS
+.DS_Store
