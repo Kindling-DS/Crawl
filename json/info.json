@@ -1,0 +1,7 @@
+{
+  "input2": "OrderExport_29_Jan_2026_943AM_Packs.xlsx",
+  "output": "hibuddy_competition_prices_toronto.csv",
+  "headless": true,
+  "min_match_score": 35,
+  "max_matches_per_sku": 12
+}
